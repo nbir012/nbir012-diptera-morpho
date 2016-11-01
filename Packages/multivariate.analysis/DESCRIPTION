@@ -1,0 +1,11 @@
+Package: multivariate.analysis
+Title: Perform assumption tests for a MANOVA before performing a MANOVA
+Version: 0.0.0.9000
+Authors@R: person("Neil", "Birrell", email = "neil.birrell@gmail.com", role = c("aut", "cre"))
+Description: morphoManova performs assumption testing on a data set prior to performing a MANOVA.
+It can be run by creating a matrix from a data frame and feeding that into the function morphoManova(u)
+as the input for u. 
+Depends: R (>= 3.3.0)
+License: The Unlicence
+Encoding: UTF-8
+LazyData: true
